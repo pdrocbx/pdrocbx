@@ -17,12 +17,6 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/pdrocbx/pdrocbx/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,8 +30,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/pdrocbx/pdrocbx/snake-output/snake.svg" alt="Snake animation" />
 
